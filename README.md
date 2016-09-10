@@ -5,7 +5,8 @@
 [![ProjectStatus](https://stillmaintained.com/closca/sonus.png)](https://stillmaintained.com/closca/sonus.png)
 [![License](https://poser.pugx.org/closca/sonus/license.png)](https://packagist.org/packages/closca/sonus)
 
-
+###Update
+Forked (and maintained) package that supports Laravel v5.1 and later is https://github.com/linkthrow/ffmpeg
 **** NOTE ****
 This is a duplicate of https://github.com/rafasamp/sonus. I have duplicated because the original package was  abandoned and i nedeed more stuffs for working with videos on Laravel.
 Sonus is a tool designed to leverage the power of **Laravel 4** and **ffmpeg** to perform tasks such as:
